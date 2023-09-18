@@ -46,7 +46,7 @@ class ChatScreenState extends State<ChatScreen> {
     // Construct the headers, including Authorization if needed
     final headers = {
       'Content-Type': 'application/json',
-      'Authorization': 'Bearer 17fea74e-b565-446d-a44a-7664a1eaa22e', // Replace with your actual token
+      'Authorization': 'Bearer XXXXXXXXXXXXX', // Replace with your actual token
     };
 
     try {
